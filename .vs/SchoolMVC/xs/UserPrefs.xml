@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D5D58B38-B58B-483B-87C1-57AB606C3EF5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SchoolMVC PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SchoolMVC/ClientApp/src/App.js">
+    <Files>
+      <File FileName="SchoolMVC/ClientApp/src/App.js" Line="102" Column="28" />
+      <File FileName="SchoolMVC/ClientApp/src/components/StudentTable.cs" Line="6" Column="28" />
+      <File FileName="SchoolMVC/ClientApp/src/components/StudentModal.js" Line="54" Column="20" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SchoolMVC" expanded="True">
+            <Node name="SchoolMVC" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                  <Node name="App.js" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
